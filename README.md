@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ankush Kumar</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ankushkumar2122&label=Profile%20views&color=0e75b6&style=flat" alt="ankushkumar2122" />
+  <img src="https://komarev.com/ghpvc/?username=ankushkumar2122&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
@@ -13,8 +13,8 @@
 - 🔭 I’m currently working on **Full Stack Projects**
 - 🌱 I’m currently learning **Next.js and TypeScript**
 - 💬 Ask me about **MERN stack development**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/ankush%20singh)**
-- ⚡ Fun fact: I love debugging and problem-solving!
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ankush%20singh)
+- ⚡ Fun fact: I love debugging and solving complex problems!
 
 ---
 
@@ -45,18 +45,17 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankushkumar2122&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkumar2122&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushkumar2122&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ankushkumar2122&show_icons=true&locale=en&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumar2122" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumar2122&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
 
 ⭐️ Thanks for visiting my profile!
-
